@@ -35,7 +35,7 @@ def create_necessary_files():
     if config_file_needed:
         with open(mh_config_file, "w", encoding="utf-8") as f:
             f.write(
-                '{"login_message": "Master Hand approaches!","base_role": "your_base_role"}'
+                '{"login_message": "Master Hand approaches!","base_role": "your_base_role", "command_role": "TOs"}'
             )
 
         write_log(
