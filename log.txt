@@ -1,0 +1,120 @@
+07 January, 2024 - 09:54:56|create_necessary_files|process started|arguments: null
+07 January, 2024 - 09:54:56|create_necessary_files|success|created the configuration file: master_hand_configuration.json
+07 January, 2024 - 09:54:56|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 09:54:56|get_config|process started|arguments: key = login_message
+07 January, 2024 - 09:54:56|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 09:54:56|get_config|process ended|arguments: key = login_message
+07 January, 2024 - 09:54:56|on_ready|success|login message sent
+07 January, 2024 - 09:54:56|on_ready|success|bot is ready for use
+07 January, 2024 - 09:55:00|mh:hello|success|bot has responded to the hello command
+07 January, 2024 - 09:55:04|mh:config|success|bot has responded to the config command
+07 January, 2024 - 09:55:12|set_configuration|process started|arguments: key = base_role,  value_to_set = another test
+07 January, 2024 - 09:55:17|mh:config|success|bot has responded to the config command
+07 January, 2024 - 09:55:20|get_config|process started|arguments: key = base_role
+07 January, 2024 - 09:55:20|get_config|success|pulled configuration for "base_role"
+07 January, 2024 - 09:55:20|get_config|process ended|arguments: key = base_role
+07 January, 2024 - 09:55:21|mh:cleanup|failure|base role was not cleaned up
+07 January, 2024 - 09:55:21|mh:cleanup|success|member roles have been cleaned up
+07 January, 2024 - 09:55:29|get_config|process started|arguments: key = base_role
+07 January, 2024 - 09:55:29|get_config|success|pulled configuration for "base_role"
+07 January, 2024 - 09:55:29|get_config|process ended|arguments: key = base_role
+07 January, 2024 - 09:55:29|mh:cleanup|success|added another test to staggart
+07 January, 2024 - 09:55:29|mh:cleanup|success|base role was cleaned up for: staggart
+07 January, 2024 - 09:55:29|mh:cleanup|success|member roles have been cleaned up
+07 January, 2024 - 09:55:44|mh:framedata|success|bot has responded to a request for framedata
+07 January, 2024 - 09:57:56|mh:hello|success|bot has responded to the hello command
+07 January, 2024 - 09:58:02|mh:framedata|success|bot has responded to a request for framedata
+07 January, 2024 - 10:05:07|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:05:07|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:05:07|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:05:07|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:05:07|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:05:07|on_ready|success|login message sent
+07 January, 2024 - 10:05:07|on_ready|success|bot is ready for use
+07 January, 2024 - 10:05:30|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:05:30|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:05:30|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:05:30|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:05:30|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:05:30|on_ready|success|login message sent
+07 January, 2024 - 10:05:30|on_ready|success|bot is ready for use
+07 January, 2024 - 10:06:19|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:06:19|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:06:19|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:06:19|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:06:19|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:06:19|on_ready|success|login message sent
+07 January, 2024 - 10:06:19|on_ready|success|bot is ready for use
+07 January, 2024 - 10:08:10|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:08:10|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:08:10|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:08:10|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:08:10|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:08:10|on_ready|success|login message sent
+07 January, 2024 - 10:08:10|on_ready|success|bot is ready for use
+07 January, 2024 - 10:14:22|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:14:22|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:14:22|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:14:22|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:14:22|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:14:22|on_ready|success|login message sent
+07 January, 2024 - 10:14:22|on_ready|success|bot is ready for use
+07 January, 2024 - 10:14:50|get_config|process started|arguments: key = "base_role"
+07 January, 2024 - 10:14:50|get_config|success|pulled configuration for "base_role"
+07 January, 2024 - 10:14:50|get_config|process ended|arguments: key = "base_role"
+07 January, 2024 - 10:23:14|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:23:14|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:23:14|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:23:14|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:23:14|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:23:14|on_ready|success|login message sent
+07 January, 2024 - 10:23:14|on_ready|success|bot is ready for use
+07 January, 2024 - 10:23:59|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:23:59|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:23:59|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:23:59|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:23:59|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:23:59|on_ready|success|login message sent
+07 January, 2024 - 10:23:59|on_ready|success|bot is ready for use
+07 January, 2024 - 10:26:08|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:26:08|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:26:08|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:26:08|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:26:08|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:26:09|on_ready|success|login message sent
+07 January, 2024 - 10:26:09|on_ready|success|bot is ready for use
+07 January, 2024 - 10:27:14|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:27:14|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:27:14|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:27:14|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:27:14|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:27:15|on_ready|success|login message sent
+07 January, 2024 - 10:27:15|on_ready|success|bot is ready for use
+07 January, 2024 - 10:29:46|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:29:46|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:29:46|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:29:46|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:29:46|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:29:47|on_ready|success|login message sent
+07 January, 2024 - 10:29:47|on_ready|success|bot is ready for use
+07 January, 2024 - 10:33:19|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:33:19|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:33:19|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:33:19|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:33:19|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:33:19|on_ready|success|login message sent
+07 January, 2024 - 10:33:19|on_ready|success|bot is ready for use
+07 January, 2024 - 10:33:56|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:33:56|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:33:56|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:33:56|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:33:56|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:33:57|on_ready|success|login message sent
+07 January, 2024 - 10:33:57|on_ready|success|bot is ready for use
+07 January, 2024 - 10:34:21|create_necessary_files|process started|arguments: null
+07 January, 2024 - 10:34:21|create_necessary_files|process ended|arguments: null
+07 January, 2024 - 10:34:21|get_config|process started|arguments: key = "login_message"
+07 January, 2024 - 10:34:21|get_config|success|pulled configuration for "login_message"
+07 January, 2024 - 10:34:21|get_config|process ended|arguments: key = "login_message"
+07 January, 2024 - 10:34:22|on_ready|success|login message sent
+07 January, 2024 - 10:34:22|on_ready|success|bot is ready for use
