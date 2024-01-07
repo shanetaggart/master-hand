@@ -61,6 +61,7 @@ async def on_message(message):
     """
     Code to be run when the bot returns a message event.
     """
+
     # Ignore messages from all bot users.
     if message.author.bot:
         return
@@ -282,6 +283,24 @@ async def on_member_join(member):
             "failure",
             f"could not assign {base_role_name} to {member}: '{error}'",
         )
+
+
+async def change_hands(client, message):
+    """
+    Code to change Master Hand into Crazy Hand, and vice versa.
+    """
+
+    # Currently the name change works, but the avatar change is not working.
+
+    # current_hand = str(client.user).split("#")[0]
+    # new_hand_name = "Crazy Hand" if current_hand == "Master Hand" else "Master Hand"
+    # new_hand_image = (
+    #     "crazy_hand.jpg" if current_hand == "master_hand.jpg" else "crazy_hand.jpg"
+    # )
+
+    # await client.user.edit(username=new_hand_name)
+    # with open("assets/" + new_hand_image, "rb") as image:
+    #     await client.user.edit(avatar=image)
 
 
 client.run(os.getenv("DISCORD_TOKEN"))
